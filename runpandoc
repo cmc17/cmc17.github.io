@@ -1,4 +1,5 @@
 #!/bin/sh
 pandoc links.md -o links.html
 pandoc news.md -o news.html
-pandoc --template=template.html -B links.html -B news.html $1.md -o $1.html
+pandoc --template=template.html -B links.html -B news.html index.md -o index.html
+pandoc --template=template.html -B links.html -B news.html ./call-for-papers/index.md -o ./call-for-papers/index.html
