@@ -43,10 +43,8 @@ h6
 
 a, a:hover
 { outline: none;
-  color: #F05A00;}
-
-a:hover
-{ text-decoration: none;}
+  color: #F05A00;
+  text-decoration: none;}
 
 .left
 { float: left;
@@ -290,3 +288,6 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
+.figure
+{ text-align: center;}
