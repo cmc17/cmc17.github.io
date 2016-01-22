@@ -89,7 +89,8 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #F79F00;
+{ /* background: #F79F00; */
+  background: #29425E;
   height: 240px;}
 
 #logo
