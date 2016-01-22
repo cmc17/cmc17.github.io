@@ -9,6 +9,6 @@
 
 ### Latest news
 
-#### Website launched
+#### Draft website
 ##### 21 January 2016
-The CMC17 website is now online.
+The CMC17 draft website is now online.
