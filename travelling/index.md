@@ -7,7 +7,7 @@ Travelling
 
 This is a map of the area surrounding Milano, including the three airports, the central station and Università degli Studi di Milano-Bicocca. Click [here](http://maps.google.com/maps/ms?f=q&source=embed&hl=en&geocode=&doflg=ptk&ie=UTF8&hq=&hnear=University+of+Milan+Bicocca,+20126+Milan,+Lombardy,+Italy&msa=0&msid=115184234348334996933.00049760d5439646faafb&ll=45.577523,9.214783&spn=0.922778,1.757813&z=9) for a larger version.
 
-<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;doflg=ptk&amp;ie=UTF8&amp;hq=&amp;hnear=University+of+Milan+Bicocca,+20126+Milan,+Lombardy,+Italy&amp;msa=0&amp;msid=115184234348334996933.00049760d5439646faafb&amp;ll=45.577523,9.214783&amp;spn=0.922778,1.757813&amp;z=9&amp;output=embed"></iframe>
+<p style="text-align: center"><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;doflg=ptk&amp;ie=UTF8&amp;hq=&amp;hnear=University+of+Milan+Bicocca,+20126+Milan,+Lombardy,+Italy&amp;msa=0&amp;msid=115184234348334996933.00049760d5439646faafb&amp;ll=45.577523,9.214783&amp;spn=0.922778,1.757813&amp;z=9&amp;output=embed"></iframe></p>
 
 The easiest way to reach the University from the airports is to first get to the Milano Centrale railway station. In order to do so, you can take a bus:
 
@@ -25,7 +25,7 @@ Finally, you can also take a taxi from the airports. Please notice that this sol
 
 Here is a map of the main campus of the University, including the location of CMC17 (building U6), the nearest line 87 bus stop, and the Greco Pirelli railway station. Click [here](http://maps.google.com/maps/ms?ie=UTF8&hl=en&source=embed&msa=0&msid=115184234348334996933.00048f84bf4fe6da84356&ll=45.516031,9.213839&spn=0.007217,0.013733&z=16) for a larger version.
 
-<p><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=115184234348334996933.00048f84bf4fe6da84356&amp;ll=45.516031,9.213839&amp;spn=0.007217,0.013733&amp;z=16&amp;output=embed"></iframe>
+<p style="text-align: center"><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=115184234348334996933.00048f84bf4fe6da84356&amp;ll=45.516031,9.213839&amp;spn=0.007217,0.013733&amp;z=16&amp;output=embed"></iframe></p>
 
 Instructions for using the public transport to reach the university from other locations in Milano can be obtained via [Google Maps](https://maps.google.com/), by searching for “Piazza dell’Ateneo Nuovo” as the destination.
 
