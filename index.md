@@ -20,7 +20,7 @@ as a PDF document. There are two tracks for submission:
 1. full paper (of a reasonable length),
 2. extended  abstract for  poster  presentation  (maximum four pages). Typical extended  abstracts  present  significant  work-in-progress, late-breaking results,  or  initial  self-dependent  contributions of students new in the field.
 
-Only  electronic submissions are accepted. Papers should be formatted according to  the usual LNCS  article style which can be downloadable at Springer's  LNCS website   (http://www.springer.com/lncs). Please,  include all source  files as well  as  all additional files (figures etc.), and also attach a PDF variant of the submission.
+Only  electronic submissions are accepted. Papers should be formatted according to  the usual LNCS  article style which can be downloaded from [Springer’s LNCS website](http://www.springer.com/lncs). Please,  include all source  files as well  as  all additional files (figures etc.), and also attach a PDF variant of the submission.
 
 Submissions have to be sent through the EasyChair web Page
 
