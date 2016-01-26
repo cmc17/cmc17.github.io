@@ -295,9 +295,10 @@ table tr td
 /* CMC logo positioning */
 
 #cmc_logo {
-    position: relative;
-    left: 700px;
-    top: 50px;
+    position: absolute;
+    /* left: 700px; */
+    right: 0px;
+    top: 40px;
     width: auto;
     height: 100px;
 }
