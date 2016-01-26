@@ -291,3 +291,13 @@ table tr td
 
 .figure
 { text-align: center;}
+
+/* CMC logo positioning */
+
+#cmc_logo {
+    position: relative;
+    left: 700px;
+    top: 50px;
+    width: auto;
+    height: 100px;
+}

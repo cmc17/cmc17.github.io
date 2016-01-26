@@ -9,7 +9,7 @@ The 17th International Conference on Membrane Computing (CMC17) will take place 
 
 The goal of CMC17 is to bring together researchers working in membrane computing and related fields, in a friendly atmosphere enhancing communication,cooperation and continuing the tradition of the past meetings. Membrane computing (P systems theory) is  an area of computer science  aiming  to abstract computing ideas and models from the  structure  and the functioning of living cells, as well as from the way the cells are organized in tissues or higher order structures.
 
-![[Mailänder Dom](https://www.flickr.com/photos/florianplag/5084575836) by [Florian Plag](https://www.flickr.com/photos/florianplag/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/duomo.jpg "Mailänder Dom")
+![[Mailänder Dom](https://www.flickr.com/photos/florianplag/5084575836) by [Florian Plag](https://www.flickr.com/photos/florianplag/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/mailander-dom.jpg "Mailänder Dom")
 
 Submissions
 -----------
