@@ -31,10 +31,10 @@ After logging  into your  EasyChair  account, select  the “New Submission” m
 Important dates
 ---------------
 
-* Deadline for submissions:       18 April, 2016
-* Notification of acceptance:     30 May, 2016
-* Final version:                  20 June, 2016
-* Conference:                     25–29 July, 2015
+* Deadline for submissions:       18 April 2016
+* Notification of acceptance:     30 May 2016
+* Final version:                  20 June 2016
+* Conference:                     25–29 July 2015
 
 Contact info
 ------------
