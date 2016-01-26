@@ -1,10 +1,13 @@
 ### Links
 
-<!-- #### Conference -->
+#### Conference
 
 * [Home](/)
 * [Call for papers](/call-for-papers/)
 * [Committees](/committees/)
+
+#### Other information
+
 * [Travelling](/travelling/)
 
 
