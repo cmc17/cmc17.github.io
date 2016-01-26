@@ -6,3 +6,5 @@ pandoc --template=template.html -B sidebar.html \
        ./call-for-papers/index.md -o ./call-for-papers/index.html
 pandoc --template=template.html -B sidebar.html \
        ./committees/index.md -o ./committees/index.html
+pandoc --template=template.html -B sidebar.html \
+       ./travelling/index.md -o ./travelling/index.html
