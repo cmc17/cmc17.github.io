@@ -19,7 +19,7 @@ Tickets are sold on board.
 
 As an alternative, you can reach Milano Centrale from the Malpensa airport by first taking a Malpensa Express train (follow the Trains sign at the Malpensa airport) to the Cadorna railway station. The ticket can be bought at the booth located inside the airport (just before arriving at the train railways). From Cadorna, you can reach Milano Centrale by using line 2 of the underground (the green line, click [here](http://www.atm.it/en/ViaggiaConNoi/Pages/SchemaReteMetro.aspx) for a map; the names of the stations are Cadorna FS and Centrale FS, respectively). The tickets for the underground can be bought for 1.50 € at the vending machines or at the newspaper kiosk, both located in the underground station.
 
-From Milano Centrale, you can reach the University by taking the line 87 bus, as described here. The urban public transport tickets are not sold on board; they can be bought for 1.50 € at the vending machines located in the Milano Centrale underground station (or at the newspaper kiosk). If you reached Milano Centrale via the underground, you can use the same ticket, as long as the total duration of the trip does not exceed 75 minutes; notice that you need to validate it again on the bus (click here for further details).
+From Milano Centrale, you can reach the University by taking the line 87 bus, as described [here](https://goo.gl/maps/iS1H6FyfnM92). The urban public transport tickets are not sold on board; they can be bought for 1.50 € at the vending machines located in the Milano Centrale underground station (or at the newspaper kiosk). If you reached Milano Centrale via the underground, you can use the same ticket, as long as the total duration of the trip does not exceed 75 minutes; notice that you need to validate it again on the bus (click here for further details).
 
 Finally, you can also take a taxi from the airports. Please notice that this solution tends to be very expensive, also depending on the traffic; you should ask the taxi driver for an approximate fare before you start the trip.
 
@@ -29,4 +29,4 @@ Here is a map of the main campus of the University, including the location of CM
 
 Instructions for using the public transport to reach the university from other locations in Milano can be obtained via [Google Maps](https://maps.google.com/), by searching for “Piazza dell’Ateneo Nuovo” as the destination.
 
-For further information, see also the [Reach us by public transport](http://www.unimib.it/go/6108044203512065963) page on the University website.
+For further information, see also the [Reach us by public transport](http://www.unimib.it/go/6108044203512065963) page on the university website.
