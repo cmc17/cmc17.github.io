@@ -2,15 +2,16 @@
   file as a target
 TARGETS = $(patsubst %.md,%.html, \
            index.md $(wildcard */index.md))
-ARGS = --template=template.html -B sidebar.html
+TDIR = templates
+ARGS = --template=$(TDIR)/template.tpl -B $(TDIR)/sidebar.tpl
 
 all: $(TARGETS)
 
-sidebar.html: sidebar.md
+$(TDIR)/sidebar.tpl : $(TDIR)/sidebar.md
 	@echo "Generating $@"
 	@pandoc $< -o $@
 
-%.html : %.md sidebar.html template.html
+%.html : %.md $(TDIR)/sidebar.tpl $(TDIR)/template.tpl
 	@echo "Generating $@"
 	@pandoc $(ARGS) $< -o $@
 
@@ -18,6 +19,6 @@ sidebar.html: sidebar.md
 
 clean:
 	@echo "Removing: $(addprefix \n, \
-               sidebar.html $(TARGETS))"
-	@rm -f sidebar.html
+               $(TARGETS) $(TDIR)/sidebar.tpl)"
 	@rm -f $(TARGETS)
+	@rm -f $(TDIR)/sidebar.tpl
