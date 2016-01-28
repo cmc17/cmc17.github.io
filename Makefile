@@ -8,7 +8,7 @@ all: $(TARGETS)
 
 sidebar.html: sidebar.md
 	@echo "Generating $@"
-	@pandoc sidebar.md -o sidebar.html
+	@pandoc $< -o $@
 
 %.html : %.md sidebar.html template.html
 	@echo "Generating $@"
