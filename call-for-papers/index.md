@@ -7,7 +7,7 @@ Call for papers
 
 [PDF format](/call-for-papers/CMC17-cfp.pdf)
 
-SCOPE AND LOCATION
+Scope and location
 ------------------
 
 The  Conference  on  Membrane  Computing  (CMC)  series started in 2000 as the 
@@ -34,7 +34,7 @@ theory) is  an area of computer science  aiming  to abstract computing ideas and
 models from the  structure  and the functioning of living cells, as well as from
 the way the cells are organized in tissues or higher order structures.
 
-CONFERENCE FORMAT
+Conference format
 -----------------
 
 This edition  will have the following  format.  It will consist of: (1) one day
@@ -47,7 +47,7 @@ Computing (BWMC)  that is  usually  organized in Sevilla  every year, where the
 participants  will work  in a collaborative  way to attack  open  problems  and
 propose new approaches, problems and results.
 
-SUBMISSION OF PAPERS
+Submission of papers
 --------------------
 
 Authors are  invited to submit papers presenting original, unpublished research 
@@ -69,13 +69,13 @@ attach a PDF version of the submission.
 
 Submissions have to be sent through the EasyChair web Page
 
-[https://easychair.org/conferences/?conf=cmc17](https://easychair.org/conferences/?conf=cmc17)
+<p style="text-align: center;">[https://easychair.org/conferences/?conf=cmc17](https://easychair.org/conferences/?conf=cmc17)</p>
 
 After logging  into your  EasyChair  account, select  the “New Submission” menu 
 item on the top of the page. If you do not have an EasyChair account,follow the 
 instructions on the login page.
 
-DEADLINES
+Deadlines
 ---------
 
 * Deadline for submissions:       18 April, 2016
@@ -83,7 +83,7 @@ DEADLINES
 * Final version:                  20 June, 2016
 * Conference:                     25 - 29 July, 2016
 
-PROCEEDINGS
+Proceedings
 -----------
 
 A pre-proceedings  volume will  be  available at the conference in electronic, 
