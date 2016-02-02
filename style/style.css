@@ -306,3 +306,10 @@ table tr td
     width: auto;
     height: 98px;
 }
+
+/* PDF icon */
+
+.pdf_icon {
+    vertical-align: middle;
+    margin-bottom: 10px;
+}

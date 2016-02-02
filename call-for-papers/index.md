@@ -2,8 +2,8 @@
 title: CMC17 – Call for papers
 ---
 
-Call for papers [<img src="/media/pdf-icon.svg" alt="PDF format" height=32 width=32 style="vertical-align:middle; margin-bottom:6px">](/call-for-papers/CMC17-cfp.pdf)
-===============
+Call for papers [<img src="/media/pdf-icon.svg" alt="PDF format" height="48" width="48" class="pdf_icon">](/call-for-papers/CMC17-cfp.pdf)
+==========================================================================================================================================
 
 Scope and location
 ------------------
