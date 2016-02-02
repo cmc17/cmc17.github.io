@@ -60,10 +60,9 @@ as a PDF document. There are two tracks for submission:
 
 Only electronic submissions are accepted. Papers should be written in LaTeX and
 formatted according to the usual  LNCS article style which can be downloaded at
-Springer's  LNCS  website
-[http://www.springer.com/lncs](http://www.springer.com/lncs).  Please,  include
-all source files as well as  all  additional  files  (figures etc.),  and  also
-attach a PDF version of the submission.
+[Springer's  LNCS  website](http://www.springer.com/lncs). Please, include  all
+source  files as well as  all  additional files (figures etc.), and also attach
+a PDF version of the submission.
 
 Submissions have to be sent through the EasyChair web Page
 
