@@ -13,8 +13,8 @@ Workshop on Multiset Processing. The first Workshop on Membrane  Computing was
 organized  in  Curtea  de  Arges, Romania, in 2001. In 2010 it was transformed
 into a  conference,  CMC11.  The  last edition, CMC16,  was held  in Valencia, 
 Spain, in 2015.  Nowadays a Steering Committee  takes care of the continuation 
-of  the  CMC  series  which  is  organized  under the auspices of the European 
-Molecular Computing Consortium (EMCC).
+of  the  CMC series which is organized under the auspices of the International
+Membrane Computing Society (IMCS).
 
 CMC17 is the 17th edition of the International Conference on Membrane Computing
 series.  The conference  will  take place at Università degli Studi di Milano -
