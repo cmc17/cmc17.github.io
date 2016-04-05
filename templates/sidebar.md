@@ -10,7 +10,7 @@
 
 * [Travelling](/travelling/)
 
-<img src="/media/imcs-logo.png" width="120px" title="IMCS" />
+<img src="/media/imcs-logo.png" width="140px" title="IMCS" />
 
 ### Latest news
 
