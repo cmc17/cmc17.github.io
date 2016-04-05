@@ -9,6 +9,9 @@
 <ul>
 <li><a href="/travelling/">Travelling</a></li>
 </ul>
+<div class="figure">
+<img src="/media/imcs-logo.png" title="IMCS" />
+</div>
 <h3 id="latest-news">Latest news</h3>
 <h4 id="website-launched">Website launched</h4>
 <h5 id="january-2016">26 January 2016</h5>

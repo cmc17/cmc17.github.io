@@ -12,7 +12,7 @@ Steering committee
 * Artiom Alhazov (Chisinau, Moldova)
 * Bogdan Aman (Iasi, Romania)
 * Matteo Cavaliere (Edinburgh, Scotland)
-* Erzsebet Csuhaj-Varju (Budapest, Hungary)
+* Erzsébet Csuhaj-Varjú (Budapest, Hungary)
 * Rudolf Freund (Wien, Austria)
 * Marian Gheorghe (Sheffield, UK) — Honorary Member
 * Thomas Hinze (Cottbus, Germany)
@@ -23,10 +23,10 @@ Steering committee
 * Linqiang Pan (Wuhan, China) - Co-Chair
 * Gheorghe Paun (Bucharest, Romania) — Honorary Member
 * Mario J. Pérez-Jiménez (Sevilla, Spain)
-* Agustin Riscos-Nuñez (Sevilla, Spain)
-* Petr Sosik (Opava, Czech Republic)
+* Agustín Riscos-Núñez (Sevilla, Spain)
+* Petr Sosík (Opava, Czech Republic)
 * Kumbakonam Govindarajan Subramanian (Penang, Malaysia)
-* Gyorgy Vaszil (Debrecen, Hungary)
+* György Vaszil (Debrecen, Hungary)
 * Sergey Verlan (Paris, France)
 * Claudio Zandron (Milan, Italy) - Co-chair
 * Gexiang Zhang (Chengdu, China)
