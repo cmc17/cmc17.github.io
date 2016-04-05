@@ -14,7 +14,7 @@ Steering committee
 * Matteo Cavaliere (Edinburgh, Scotland)
 * Erzsébet Csuhaj-Varjú (Budapest, Hungary)
 * Rudolf Freund (Wien, Austria)
-* Marian Gheorghe (Sheffield, UK) — Honorary Member
+* Marian Gheorghe (Bradford, UK) — Honorary Member
 * Thomas Hinze (Cottbus, Germany)
 * Florentin Ipate (Bucharest, Romania)
 * Shankara N. Krishna (Bombay, India)
