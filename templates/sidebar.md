@@ -10,7 +10,7 @@
 
 * [Travelling](/travelling/)
 
-![](/media/imcs-logo.png "IMCS")
+<img src="/media/imcs-logo.png" width="120px" title="IMCS" />
 
 ### Latest news
 
