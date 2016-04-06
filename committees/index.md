@@ -21,7 +21,7 @@ Steering committee
 * Alberto Leporati (Milan, Italy)
 * Taishin Y. Nishida (Toyama, Japan)
 * Linqiang Pan (Wuhan, China) - Co-Chair
-* Gheorghe Paun (Bucharest, Romania) — Honorary Member
+* Gheorghe Păun (Bucharest, Romania) — Honorary Member
 * Mario J. Pérez-Jiménez (Sevilla, Spain)
 * Agustín Riscos-Núñez (Sevilla, Spain)
 * Petr Sosík (Opava, Czech Republic)

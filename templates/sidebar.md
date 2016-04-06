@@ -5,6 +5,7 @@
 * [Home](/)
 * [Call for papers](/call-for-papers/)
 * [Committees](/committees/)
+* [Invited Speakers](/invited-speakers/)
 
 #### Other information
 
