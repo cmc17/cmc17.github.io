@@ -9,7 +9,7 @@ Steering committee
 ------------------
 
 * Henry Adorna (Quezon City, Philippines)
-* Artiom Alhazov (Chisinau, Moldova)
+* Artiom Alhazov (Chişinǎu, Moldova)
 * Bogdan Aman (Iasi, Romania)
 * Matteo Cavaliere (Edinburgh, Scotland)
 * Erzsébet Csuhaj-Varjú (Budapest, Hungary)
@@ -43,7 +43,7 @@ Program committee
 * Marian Gheorghe (Bradford, UK)
 * Thomas Hinze (Jena, Germany)
 * Florentin Ipate (Bucharest, Romania)
-* Krishna S. (Bombay, India)
+* Shankara N. Krishna (Bombay, India)
 * Alberto Leporati (Milano, Italy) - Co-chair
 * Vincenzo Manca (Verona, Italy)
 * Maurice Margenstern (Metz, France)
