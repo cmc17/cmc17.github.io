@@ -20,7 +20,7 @@ Steering committee
 * Shankara N. Krishna (Bombay, India)
 * Alberto Leporati (Milan, Italy)
 * Taishin Y. Nishida (Toyama, Japan)
-* Linqiang Pan (Wuhan, China) - Co-Chair
+* Linqiang Pan (Wuhan, China) - Co-chair
 * Gheorghe Păun (Bucharest, Romania) — Honorary Member
 * Mario J. Pérez-Jiménez (Sevilla, Spain)
 * Agustín Riscos-Núñez (Sevilla, Spain)
@@ -64,7 +64,7 @@ Program committee
 Organization committee
 ----------------------
 
-* Alberto Leporati (Milan, Italy) — co-chair
+* Alberto Leporati (Milan, Italy) — Co-chair
 * Luca Manzoni (Milan, Italy)
 * Antonio E. Porreca (Milan, Italy)
-* Claudio Zandron (Milan, Italy) — co-chair
+* Claudio Zandron (Milan, Italy) — Co-chair
