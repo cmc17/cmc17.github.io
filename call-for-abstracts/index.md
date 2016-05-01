@@ -37,7 +37,7 @@ Deadlines
 * Final version:                  **20 June 2016**
 * Conference:                     **25 - 29 July 2016**
 
-Elcetronic Proceedings
+Electronic Proceedings
 ---------------------------
 
 The abstracts, extended abstracts and preview-like papers for work-in-progress
