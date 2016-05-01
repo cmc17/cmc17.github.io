@@ -32,10 +32,10 @@ instructions on the login page.
 Deadlines
 -----------
 
-* Deadline for submissions:       **15 May, 2016**
-* Notification of acceptance:     **30 May, 2016**
-* Final version:                  **20 June, 2016**
-* Conference:                     **25 - 29 July, 2016**
+* Deadline for submissions:       **15 May 2016**
+* Notification of acceptance:     **30 May 2016**
+* Final version:                  **20 June 2016**
+* Conference:                     **25 - 29 July 2016**
 
 Elcetronic Proceedings
 ---------------------------
