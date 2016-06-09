@@ -32,7 +32,7 @@ After logging  into your  EasyChair  account, select  the “New Submission” m
 
 A selection of further revised paper of CMC will be published as a volume of Lecture Notes in Computer Science(A selection of further revised paper of CMC will be published as a volume of [Lecture Notes in Computer Science](http://www.springer.com/lncs) by [Springer](http://www.springer.com/).
 
-[<center>![](/media/LNCS-Logo.png "Springer LNCS")</center>](http://www.springer.com/lncs)
+![](/media/LNCS-Logo.png "Springer LNCS")
 
 Important dates
 ---------------
