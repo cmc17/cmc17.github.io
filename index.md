@@ -30,7 +30,7 @@ Submissions have to be sent through the EasyChair web Page
 
 After logging  into your  EasyChair  account, select  the “New Submission” menu item on the top of the page. If you do not have an EasyChair account,follow the instructions on the login page.
 
-A selection of further revised paper of CMC will be published as a volume of Lecture Notes in Computer Science(A selection of further revised paper of CMC will be published as a volume of [Lecture Notes in Computer Science](http://www.springer.com/lncs) by [Springer](http://www.springer.com/).
+A selection of further revised papers of CMC will be published as a volume of [Lecture Notes in Computer Science](http://www.springer.com/lncs) by [Springer](http://www.springer.com/).
 
 ![](/media/LNCS-Logo.png "Springer LNCS")
 
