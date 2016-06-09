@@ -9,7 +9,7 @@ The 17th International Conference on Membrane Computing (CMC17) will take place 
 
 The goal of CMC17 is to bring together researchers working in membrane computing and related fields, in a friendly atmosphere enhancing communication,cooperation and continuing the tradition of the past meetings. Membrane computing (P systems theory) is  an area of computer science  aiming  to abstract computing ideas and models from the  structure  and the functioning of living cells, as well as from the way the cells are organized in tissues or higher order structures.
 
-CMC17 is organized under the auspices of the International Membrane Computing Society (IMCS).
+CMC17 is organized under the auspices of the International Membrane Computing Society (IMCS). [Springer](http://www.springer.com/) will sponsor the Best Student Paper Award at CMC17.
 
 ![[Mailänder Dom](https://www.flickr.com/photos/florianplag/5084575836) by [Florian Plag](https://www.flickr.com/photos/florianplag/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/mailander-dom.jpg "Mailänder Dom")
 
@@ -29,6 +29,10 @@ Submissions have to be sent through the EasyChair web Page
 <p style="text-align: center;">[https://easychair.org/conferences/?conf=cmc17](https://easychair.org/conferences/?conf=cmc17)</p>
 
 After logging  into your  EasyChair  account, select  the “New Submission” menu item on the top of the page. If you do not have an EasyChair account,follow the instructions on the login page.
+
+A selection of further revised paper of CMC will be published as a volume of Lecture Notes in Computer Science(A selection of further revised paper of CMC will be published as a volume of [Lecture Notes in Computer Science](http://www.springer.com/lncs) by [Springer](http://www.springer.com/).
+
+![](/media/LNCS-Logo.png "Springer LNCS")
 
 Important dates
 ---------------

@@ -12,6 +12,7 @@
 <li><a href="/travelling/">Travelling</a></li>
 </ul>
 <p><img src="/media/imcs-logo.png" width="140px" title="IMCS" /></p>
+<p><img src="/media/springer-logo.png" width="140px" title="Springer" /></p>
 <h3 id="latest-news">Latest news</h3>
 <h4 id="website-launched">Website launched</h4>
 <h5 id="january-2016">26 January 2016</h5>

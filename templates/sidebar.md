@@ -14,6 +14,8 @@
 
 <img src="/media/imcs-logo.png" width="140px" title="IMCS" />
 
+<img src="/media/springer-logo.png" width="140px" title="Springer" />
+
 ### Latest news
 
 #### Website launched
