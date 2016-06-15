@@ -6,8 +6,8 @@ We suggest the following hotels as accommodations.
 
 To reserve a room or to inquire about prices and availability please contact the hotel directly.
 
-Hotels near the central station
----------------------------------------
+Hotels near the Central railway station
+-------------------------------------------------
 
 [Hotel Bernina](http://www.hotelbernina.com) ⋆⋆⋆  
 Via Napo Torriani 27, 20124 Milano  
@@ -29,8 +29,8 @@ Fax +39 026694232
 Website [http://www.michelangelohotelmilan.com](http://www.michelangelohotelmilan.com)  
 Email [camere.michelangelo@milanhotel.it](mailto:camere.michelangelo@milanhotel.it)  
 
-Hotels near Porta Garibaldi station
---------------------------------------------
+Hotels near the Porta Garibaldi railway station
+-----------------------------------------------------------
 
 [Mythos Hotel](http://www.hotelmythosmilano.com/) ⋆⋆⋆⋆  
 Via Carlo Tenca 21, 20124 Milano  
