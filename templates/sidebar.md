@@ -11,6 +11,7 @@
 #### Other information
 
 * [Travelling](/travelling/)
+* [Accommodation](/accommodation/)
 
 <img src="/media/imcs-logo.png" width="140px" title="IMCS" />
 
