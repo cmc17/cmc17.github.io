@@ -7,6 +7,7 @@
 * [Call for abstracts](/call-for-abstracts/)
 * [Committees](/committees/)
 * [Invited Speakers](/invited-speakers/)
+* [Registration](/registration/)
 
 #### Other information
 
@@ -18,6 +19,14 @@
 [<img src="/media/springer-logo.png" width="140px" title="Springer" />](http://www.springer.com/)
 
 ### Latest news
+
+#### Registration information
+##### 15 June 2016
+[Registration information](/registration/) is now available.
+
+#### Accommodation information
+##### 15 June 2016
+[Accommodation information](/accommodation/) is now available.
 
 #### Website launched
 ##### 26 January 2016

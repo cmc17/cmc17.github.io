@@ -2,8 +2,19 @@
 title: CMC17 – Accommodation
 ---
 
-Hotels near central station
-----------------------------------
+We suggest the following hotels as accommodations.
+
+To reserve a room or to inquire about prices and availability please contact the hotel directly.
+
+Hotels near the central station
+---------------------------------------
+
+[Hotel Bernina](http://www.hotelbernina.com) ⋆⋆⋆  
+Via Napo Torriani 27, 20124 Milano  
+Phone +39 0266988022  
+Fax +39 026702964  
+Website [http://www.hotelbernina.com](http://www.hotelbernina.com)  
+Email [bernina@hotelbernina.com](mailto:bernina@hotelbernina.com)  
 
 [Hotel Berna Milano](http://www.hotelberna.com) ⋆⋆⋆⋆  
 Via Napo Torriani 18, 20124 Milano  
@@ -17,13 +28,6 @@ Phone +39 0267551
 Fax +39 026694232  
 Website [http://www.michelangelohotelmilan.com](http://www.michelangelohotelmilan.com)  
 Email [camere.michelangelo@milanhotel.it](mailto:camere.michelangelo@milanhotel.it)  
-
-[Hotel Bernina](http://www.hotelbernina.com) ⋆⋆⋆  
-Via Napo Torriani 27, 20124 Milano  
-Phone +39 0266988022  
-Fax +39 026702964  
-Website [http://www.hotelbernina.com](http://www.hotelbernina.com)  
-Email [bernina@hotelbernina.com](mailto:bernina@hotelbernina.com)  
 
 Hotels near Porta Garibaldi station
 --------------------------------------------
@@ -44,6 +48,19 @@ Email [windsor@hotelwindsor.it](mailto:windsor@hotelwindsor.it)
 
 Hotels near the university
 ---------------------------------
+
+[B&B Hotel Milano Sesto](http://www.hotel-bb.com/en/hotels/milano-sesto.htm) ⋆⋆⋆  
+Viale Ercole Marelli 303, 20099 Sesto San Giovanni (Milano)  
+Phone +39 0222471152  
+Website [http://www.hotel-bb.com/en/hotels/milano-sesto.htm](http://www.hotel-bb.com/en/hotels/milano-sesto.htm)  
+Email [mi.sesto@hotelbb.com](mailto:mi.sesto@hotelbb.com)  
+
+[Ibis Milano Ca’ Granda](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/) ⋆⋆⋆  
+Viale Giovanni Suzzani 13/15, 20162 Milano  
+Phone +39 0266103000  
+Fax +39 0266102797  
+Website [http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/)  
+Email [h1135@accor.com](mailto:h1135@accor.com)  
 
 [Hotel Arcimboldi](http://www.hotelarcimboldi.it/) ⋆⋆⋆⋆  
 Viale Sarca 336, 20126 Milano  
@@ -71,16 +88,3 @@ Phone +39 026437777
 Fax +39 026472516  
 Website [http://www.starhotels.com/en/our-hotels/tourist-milan/](http://www.starhotels.com/en/our-hotels/tourist-milan/)  
 Email [tourist.mi@starhotels.it](mailto:tourist.mi@starhotels.it)  
-
-[B&B Hotel Milano Sesto](http://www.hotel-bb.com/en/hotels/milano-sesto.htm) ⋆⋆⋆  
-Viale Ercole Marelli 303, 20099 Sesto San Giovanni (Milano)  
-Phone +39 0222471152  
-Website [http://www.hotel-bb.com/en/hotels/milano-sesto.htm](http://www.hotel-bb.com/en/hotels/milano-sesto.htm)  
-Email [mi.sesto@hotelbb.com](mailto:mi.sesto@hotelbb.com)  
-
-[Ibis Milano Ca’ Granda](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/) ⋆⋆⋆  
-Viale Giovanni Suzzani 13/15, 20162 Milano  
-Phone +39 0266103000  
-Fax +39 0266102797  
-Website [http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/)  
-Email [h1135@accor.com](mailto:h1135@accor.com)  
