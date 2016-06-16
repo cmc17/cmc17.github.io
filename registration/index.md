@@ -13,6 +13,7 @@ The registration website is:
 <p style="text-align:center">[http://www.cmc17.promoest.com/](http://www.cmc17.promoest.com/)</p>
 
 Please note that the following cancellation policy will be adopted:
+
 * before June 21, 2016: full refund (minus 50 € for the handling fee)
 * from June 22 to July 11, 2016: 40% refund (minus 50 € for the handling fee)
 * from July 12, 2016: no refund
