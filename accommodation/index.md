@@ -46,7 +46,7 @@ Fax +39 026555543
 Website [http://www.hotelwindsormilan.com/en/](http://www.hotelwindsormilan.com/en/)  
 Email [windsor@hotelwindsor.it](mailto:windsor@hotelwindsor.it)  
 
-Hotels near the university
+Hotels near the University
 ---------------------------------
 
 [B&B Hotel Milano Sesto](http://www.hotel-bb.com/en/hotels/milano-sesto.htm) ⋆⋆⋆  
