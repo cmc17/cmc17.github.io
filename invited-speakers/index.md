@@ -15,7 +15,7 @@ Title of the talk: TBA
 Thomas Hinze (Cottbus, Germany)
 ---------------------------------------
 
-Title of the talk: TBA
+Title of the talk: Coping with Dynamical Structures for Useful Applications of Membrane Computing 
 
 [homepage](http://www.molecular-computing.de/)
 
