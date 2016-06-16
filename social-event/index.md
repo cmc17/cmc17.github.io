@@ -19,6 +19,8 @@ The next stop of our tour is at the Cloister of Santa Maria Maddalena al Cerchio
 
 We will also visit the ancient Basilica of San Lorenzo and the adjacent Chapel of Sant’Aquilino, as well as the Parco delle Basiliche (Basilicas Park). We will then cross Porta Ticinese (one of the major former city gates).
 
+![[Colonne di San Lorenzo](https://www.flickr.com/photos/brostad/3461918824/) by [Bernt Rostad](https://www.flickr.com/photos/brostad/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/colonne-di-san-lorenzo.jpg "Colonne di San Lorenzo")
+
 The final landmark of our tour is the renovated Darsena, a dock on the Naviglio Grande, which was part the navigable canal system that interconnected the city.
 
 After the tour of the city, we will reach the restaurant for the CMC17 social dinner.
