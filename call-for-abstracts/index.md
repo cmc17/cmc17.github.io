@@ -5,8 +5,8 @@ title: CMC17 – Call for abstracts
 Call for abstracts
 ======================
 
-Submission of abstracts / Extended Abstracts / Preview-like papers
------------------------------------------------------------------------------------
+Submission of abstracts / extended abstracts / preview-like papers
+------------------------------------------------------------------
 
 Authors are  invited to submit their abstracts, extended abstracts and preview-like
 papers as PDF documents (of a reasonable length). 
@@ -30,15 +30,15 @@ item on the top of the page. If you do not have an EasyChair account,follow the
 instructions on the login page.
 
 Deadlines
------------
+---------
 
 * Deadline for submissions:       **15 May 2016**
 * Notification of acceptance:     **30 May 2016**
 * Final version:                  **20 June 2016**
 * Conference:                     **25 - 29 July 2016**
 
-Electronic Proceedings
----------------------------
+Electronic proceedings
+----------------------
 
 The abstracts, extended abstracts and preview-like papers for work-in-progress
 will be published in electronic form, and will be available by the conference
