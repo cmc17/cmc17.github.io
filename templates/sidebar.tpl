@@ -5,7 +5,7 @@
 <li><a href="/call-for-papers/">Call for papers</a></li>
 <li><a href="/call-for-abstracts/">Call for abstracts</a></li>
 <li><a href="/committees/">Committees</a></li>
-<li><a href="/invited-speakers/">Invited Speakers</a></li>
+<li><a href="/invited-speakers/">Invited speakers</a></li>
 <li><a href="/registration/">Registration</a></li>
 </ul>
 <h4 id="other-information">Other information</h4>

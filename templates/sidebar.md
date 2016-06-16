@@ -6,7 +6,7 @@
 * [Call for papers](/call-for-papers/)
 * [Call for abstracts](/call-for-abstracts/)
 * [Committees](/committees/)
-* [Invited Speakers](/invited-speakers/)
+* [Invited speakers](/invited-speakers/)
 * [Registration](/registration/)
 
 #### Other information

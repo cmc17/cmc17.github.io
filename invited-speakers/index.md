@@ -1,8 +1,8 @@
 ---
-title: CMC17 – Invited Speakers
+title: CMC17 – Invited speakers
 ---
 
-Invited Speakers
+Invited speakers
 ====================
 
 Paolo Milazzo (Pisa, Italy)
