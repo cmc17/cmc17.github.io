@@ -13,6 +13,8 @@ After having descended the tower, we will reach an historical building, Casa deg
 
 We will then reach the church of San Maurizio al Monastero Maggiore on foot. This is sometimes called the “Sistine Chapel of Milano” for its rich internal decorations and its frescos.
 
+![[В церкви San Maurizio al Monastero Maggiore](https://www.flickr.com/photos/foupic/11031655345/) by [FouPic](https://www.flickr.com/photos/foupic/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/san-maurizio.jpg "В церкви San Maurizio al Monastero Maggiore")
+
 The next stop of our tour is at the Cloister of Santa Maria Maddalena al Cerchio, the remaining testimony of an XI century monastery. This is hidden in one of the few medieval streets of the city that still maintain their original route.
 
 We will also visit the ancient Basilica of San Lorenzo and the adjacent Chapel of Sant’Aquilino, as well as the Parco delle Basiliche (Basilicas Park). We will then cross Porta Ticinese (one of the major former city gates).
