@@ -10,7 +10,7 @@ The registration fee includes the welcome cocktail, daily lunches and coffee bre
 The registration fee for **accompanying persons** (including the social event and the social dinner) is 120 €.
 
 The registration website is:  
-<p style="text-align:center; font-size:larger">[http://www.cmc17.promoest.com/](http://www.cmc17.promoest.com/)</p>
+<p style="text-align:center; font-size:large">[http://www.cmc17.promoest.com/](http://www.cmc17.promoest.com/)</p>
 
 Please note that the following cancellation policy will be adopted:
 
