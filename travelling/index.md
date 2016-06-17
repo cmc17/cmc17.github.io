@@ -21,7 +21,7 @@ As an alternative, you can reach Milano Centrale from the Malpensa airport by fi
 
 From Milano Centrale, you can reach the University by taking the line 87 bus, as described [here](https://goo.gl/maps/iS1H6FyfnM92). The urban public transport tickets are not sold on board; they can be bought for 1.50 € at the vending machines located in the Milano Centrale underground station (or at the newspaper kiosk). If you reached Milano Centrale via the underground, you can use the same ticket, as long as the total duration of the trip does not exceed 75 minutes; notice that you need to validate it again on the bus (click [here](http://www.atm.it/en/ViaggiaConNoi/Biglietti/Pages/Tipologie.aspx) for further details).
 
-You can also reach the University from Milano Centrale via underground. Take the yellow line (line 3) towards Comasina. At the Zara station, exchange with a lilac line (line 5) train towards Bignami and get off at the Ponale station to reach the University. You can see this route [here](https://goo.gl/maps/n3sfzHLbKE12).
+You can also reach the University from Milano Centrale via underground. Take the yellow line (line 3) towards Comasina. At the Zara station, exchange with a lilac line (line 5) train towards Bignami and get off at the Ponale station to reach the University. You can see this route [here](https://goo.gl/maps/q5yVioXo8KD2).
 
 Finally, you can also take a taxi from the airports. Please notice that this solution tends to be very expensive, also depending on the traffic; you should ask the taxi driver for an approximate fare before you start the trip.
 
