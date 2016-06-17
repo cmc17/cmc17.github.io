@@ -5,7 +5,7 @@ title: CMC17 – Social event
 Social event
 ============
 
-The CMC17 social event begins at Parco Sempione (Sempione Park) in the center of Milano, where we will arrive by bus from the university. There, we will reach the top of the Torre Branca (Branca Tower) with an elevator, for a view of the city from a height of about 99 meters.
+The CMC17 social event begins at Parco Sempione (Sempione Park) in the center of Milano, where we will arrive by bus from the University. There, we will reach the top of the Torre Branca (Branca Tower) with an elevator, for a view of the city from a height of about 99 meters.
 
 ![[Arco della Pace in Parco Sempione, Milan, Italy](https://www.flickr.com/photos/99852712@N04/9474340744/) by [Veselina Dzhingarova](https://www.flickr.com/photos/99852712@N04/), used under [CC BY](https://creativecommons.org/licenses/by/2.0/)](/media/parco-sempione.jpg "Arco della Pace in Parco Sempione, Milan, Italy")
 
