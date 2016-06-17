@@ -5,7 +5,7 @@ title: CMC17 – Travelling
 Travelling
 ==========
 
-This is a map of the area surrounding Milano, including the three airports, the central station and Università degli Studi di Milano-Bicocca. Click [here](http://maps.google.com/maps/ms?f=q&source=embed&hl=en&geocode=&doflg=ptk&ie=UTF8&hq=&hnear=University+of+Milan+Bicocca,+20126+Milan,+Lombardy,+Italy&msa=0&msid=115184234348334996933.00049760d5439646faafb&ll=45.577523,9.214783&spn=0.922778,1.757813&z=9) for a larger version.
+This is a map of the area surrounding Milano, including the three airports, the central station and Università degli Studi di Milano-Bicocca.
 
 <p style="text-align: center"><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;doflg=ptk&amp;ie=UTF8&amp;hq=&amp;hnear=University+of+Milan+Bicocca,+20126+Milan,+Lombardy,+Italy&amp;msa=0&amp;msid=115184234348334996933.00049760d5439646faafb&amp;ll=45.577523,9.214783&amp;spn=0.922778,1.757813&amp;z=9&amp;output=embed"></iframe></p>
 
@@ -25,7 +25,7 @@ You can also reach the University from Milano Centrale via underground. Take the
 
 Finally, you can also take a taxi from the airports. Please notice that this solution tends to be very expensive, also depending on the traffic; you should ask the taxi driver for an approximate fare before you start the trip.
 
-Here is a map of the main campus of the University, including the location of CMC17 (building U6), the nearest line 87 bus stop, and the Greco Pirelli railway station. Click [here](http://maps.google.com/maps/ms?ie=UTF8&hl=en&source=embed&msa=0&msid=115184234348334996933.00048f84bf4fe6da84356&ll=45.516031,9.213839&spn=0.007217,0.013733&z=16) for a larger version.
+Here is a map of the main campus of the University, including the location of CMC17 (building U6), the nearest line 87 bus stop, and the Ponale underground station (line 5 or lilac line).
 
 <p style="text-align: center"><iframe src="https://www.google.com/maps/d/embed?mid=1hf-QkU90egfovkyRbxTWvs3cKfA&hl=en" width="500" height="500"></iframe></p>
 
