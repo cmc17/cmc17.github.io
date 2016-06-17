@@ -18,10 +18,13 @@
 <p><a href="http://www.springer.com/"><img src="/media/springer-logo.png" width="140px" title="Springer" /></a></p>
 <h3 id="latest-news">Latest news</h3>
 <h4 id="registration-information">Registration information</h4>
-<h5 id="june-2016">15 June 2016</h5>
+<h5 id="june-2016">16 June 2016</h5>
+<p><a href="/registration/">Registration</a> is now open.</p>
+<h4 id="registration-information-1">Registration information</h4>
+<h5 id="june-2016-1">15 June 2016</h5>
 <p><a href="/registration/">Registration information</a> is now available.</p>
 <h4 id="accommodation-information">Accommodation information</h4>
-<h5 id="june-2016-1">15 June 2016</h5>
+<h5 id="june-2016-2">15 June 2016</h5>
 <p><a href="/accommodation/">Accommodation information</a> is now available.</p>
 <h4 id="website-launched">Website launched</h4>
 <h5 id="january-2016">26 January 2016</h5>

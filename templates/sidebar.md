@@ -22,6 +22,10 @@
 ### Latest news
 
 #### Registration information
+##### 16 June 2016
+[Registration](/registration/) is now open.
+
+#### Registration information
 ##### 15 June 2016
 [Registration information](/registration/) is now available.
 
