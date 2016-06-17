@@ -27,7 +27,9 @@ Finally, you can also take a taxi from the airports. Please notice that this sol
 
 Here is a map of the main campus of the University, including the location of CMC17 (building U6), the nearest line 87 bus stop, and the Greco Pirelli railway station. Click [here](http://maps.google.com/maps/ms?ie=UTF8&hl=en&source=embed&msa=0&msid=115184234348334996933.00048f84bf4fe6da84356&ll=45.516031,9.213839&spn=0.007217,0.013733&z=16) for a larger version.
 
-<p style="text-align: center"><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=115184234348334996933.00048f84bf4fe6da84356&amp;ll=45.516031,9.213839&amp;spn=0.007217,0.013733&amp;z=16&amp;output=embed"></iframe></p>
+<p style="text-align: center"><iframe src="https://www.google.com/maps/d/embed?mid=1hf-QkU90egfovkyRbxTWvs3cKfA&hl=en" width="500" height="500"></iframe></p>
+
+<!-- <p style="text-align: center"><iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;source=embed&amp;msa=0&amp;msid=115184234348334996933.00048f84bf4fe6da84356&amp;ll=45.516031,9.213839&amp;spn=0.007217,0.013733&amp;z=16&amp;output=embed"></iframe></p> -->
 
 Instructions for using the public transport to reach the university from other locations in Milano can be obtained via [Google Maps](https://maps.google.com/), by searching for “Piazza dell’Ateneo Nuovo” as the destination.
 
