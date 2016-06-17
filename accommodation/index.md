@@ -61,11 +61,11 @@ Website [http://www.hotel-bb.com/en/hotels/milano-sesto.htm](http://www.hotel-bb
 Email [mi.sesto@hotelbb.com](mailto:mi.sesto@hotelbb.com)  
 Click [here](https://goo.gl/maps/hQbsjKK2ncH2) for a route to the University
 
-[Ibis Milano Ca’ Granda](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/) ⋆⋆⋆  
+[Ibis Milano Ca’ Granda](http://www.ibis.com/en/hotel-1135-ibis-milano-ca-granda/) ⋆⋆⋆  
 Viale Giovanni Suzzani 13/15, 20162 Milano  
 Phone +39 0266103000  
 Fax +39 0266102797  
-Website [http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/](http://www.ibis.com/it/hotel-1135-ibis-milano-ca-granda/)  
+Website [http://www.ibis.com/en/hotel-1135-ibis-milano-ca-granda/](http://www.ibis.com/en/hotel-1135-ibis-milano-ca-granda/)  
 Email [h1135@accor.com](mailto:h1135@accor.com)  
 Click [here](https://goo.gl/maps/YVAYFVyoLFC2) for a route to the University
 
@@ -84,11 +84,11 @@ Website [http://www.nh-hotels.it/hotel/nh-milano-concordia/](http://www.nh-hotel
 Email [nhconcordia@nh-hotels.com](mailto:nhconcordia@nh-hotels.com)  
 Click [here](https://goo.gl/maps/d46UpToaKzD2) for a route to the University
 
-[Novotel](http://www.novotel.com/it/hotel-1140-novotel-milano-nord-ca-granda/) ⋆⋆⋆⋆  
+[Novotel](http://www.novotel.com/en/hotel-1140-novotel-milano-nord-ca-granda/) ⋆⋆⋆⋆  
 Viale Giovanni Suzzani 13, 20162 Milano  
 Phone +39 02641151  
 Fax +39 0266101961  
-Website [http://www.novotel.com/it/hotel-1140-novotel-milano-nord-ca-granda/](http://www.novotel.com/it/hotel-1140-novotel-milano-nord-ca-granda/)  
+Website [http://www.novotel.com/en/hotel-1140-novotel-milano-nord-ca-granda/](http://www.novotel.com/en/hotel-1140-novotel-milano-nord-ca-granda/)  
 Email [h1140@accor.com](mailto:h1140@accor.com)  
 Click [here](https://goo.gl/maps/DfQADakiA8x) for a route to the University
 
