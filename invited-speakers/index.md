@@ -43,7 +43,8 @@ Matteo Cavaliere (Edinburgh, Scotland)
 
 In the commons, communities whose growth depends on public good, individuals often rely on simple strategies to decide whether to contribute to the shared resource (at risk of exploitation by free-riders, i.e., cheaters). This issue is also present in cellular populations. In this talk I will discuss how cellular decision-making can be a crucial factor to facilitate the sustainable growth of cellular populations. Results will be discussed with simple computational models and experimental data obtained with synthetic cells.
 
-References
+References:
+
 * Plasticity Facilitates Sustainable Growth in the Commons. M. Cavaliere, J.F. Poyatos. Journal of the Royal Society Interface, 10, 2013.
 * Exploitation by Cheaters Facilitates the Preservation of Essential Public Goods in Microbial Communities. C. Moreno-Fenoll, M. Cavaliere, E. Martinez-Garcia, J.F. Poyatos. bioRxiv, 2016.
 
