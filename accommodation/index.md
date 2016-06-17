@@ -17,7 +17,7 @@ Website [http://www.hotelbernina.com](http://www.hotelbernina.com)
 Email [bernina@hotelbernina.com](mailto:bernina@hotelbernina.com)  
 Click [here](https://goo.gl/maps/Qzn9ZGch8dq) for a route to the University
 
-[Hotel Berna Milano](http://www.hotelberna.com) ⋆⋆⋆⋆  
+[Hotel Berna](http://www.hotelberna.com) ⋆⋆⋆⋆  
 Via Napo Torriani 18, 20124 Milano  
 Phone +39 02677311  
 Website [http://www.hotelberna.com](http://www.hotelberna.com)  
