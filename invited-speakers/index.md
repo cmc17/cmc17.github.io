@@ -10,7 +10,35 @@ Paolo Milazzo (Pisa, Italy)
 
 [Homepage](http://pages.di.unipi.it/milazzo/)
 
-**Title of the talk:** TBA
+**Title of the talk:** Applications of P systems in population biology and ecology
+
+In this talk we will describe a variant of P systems, called minimal 
+probabilistic P systems (MPP systems), that we recently proposed for the 
+modelling of population and ecosystem dynamics. MPP systems are 
+essentially flat multiset rewriting systems with probabilistic maximal 
+parallelism and rules promoters. Although rather simple, MPP systems can 
+be used to construct concise stage-based population models, namely 
+models of populations characterized by stages in which all of the 
+individuals are involved in the same activity (e.g. reproduction, 
+hibernation, natural selection). As model analysis techniques for MPP 
+systems we considered probabilistic simulation and statistical model 
+checking.
+
+We applied MPP systems to study the stability of some kinds of European 
+water frog populations. In particular, we faced the problem of 
+understanding why in some of these populations (known as "L-E 
+complexes") that are the results of hybridization of two different kinds 
+of frog, potentially lethal DNA mutations are accumulated in the 
+genotype of the hybrid individuals. Model analysis allowed us to 
+formulate the hypothesis that such mutations are actually necessary, 
+together with a form of sexual selection, to avoid extinction of the 
+whole population.
+
+In order to allow other aspects of populations and ecosystems to be 
+modelled such as spatiality aspects, age structures and social 
+hierarchies, in the last few years we proposed other variants of P 
+systems such as attributed probabilistic P systems (APP systems) and 
+spatial P systems.
 
 Thomas Hinze (Cottbus, Germany)
 -------------------------------
