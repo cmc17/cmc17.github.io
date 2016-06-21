@@ -13,7 +13,7 @@ Hotels near the Central railway station
 Via Andrea Doria 22, 20124 Milano  
 Phone +39 0267411411  
 Fax  +39 026696669  
-Website [http://www.doriagrandhotel.it/en](http://www.doriagrandhotel.it/en)
+Website [http://www.doriagrandhotel.it/en](http://www.doriagrandhotel.it/en)  
 Email [prenotazioni.doriagrandhotel@adihotels.com](mailto:prenotazioni.doriagrandhotel@adihotels.com)  
 Click [here](https://goo.gl/maps/XXTwRVBJjit) for a route to the University
 
