@@ -9,6 +9,16 @@ To reserve a room or to inquire about prices and availability please contact the
 Hotels near the Central railway station
 ---------------------------------------
 
+[Doria Grand Hotel](http://www.doriagrandhotel.it/en) ⋆⋆⋆⋆  
+Via Andrea Doria 22, 20124 Milano  
+Phone +39 0267411411  
+Fax  +39 026696669  
+Website [http://www.doriagrandhotel.it/en](http://www.doriagrandhotel.it/en)
+Email [prenotazioni.doriagrandhotel@adihotels.com](mailto:prenotazioni.doriagrandhotel@adihotels.com)  
+Click [here](https://goo.gl/maps/XXTwRVBJjit) for a route to the University
+
+By reserving for Doria Grand Hotel via email at [prenotazioni.doriagrandhotel@adihotels.com](mailto:prenotazioni.doriagrandhotel@adihotels.com) and indicating that you will be attending the conference CMC17, you will receive a discount of about 10% on the room prices listed on the website, as well as discounts of 10%–15% on other hotel services (such as bar, restaurant, laundry and parking).
+
 [Hotel Bernina](http://www.hotelbernina.com) ⋆⋆⋆  
 Via Napo Torriani 27, 20124 Milano  
 Phone +39 0266988022  
