@@ -81,4 +81,8 @@ Agustín Riscos-Núñez (Sevilla, Spain)
 
 [Homepage](http://www.cs.us.es/~ariscosn/)
 
-**Title of the talk:** TBA
+**Title of the talk:** Borderlines of efficiency: what's up?
+
+Some of the theoretical open problems and current challenges concerning P systems from a theoretical perspective will be discussed, focusing on results related to searching bounds for computational complexity classes in general, and to the P vs NP problem and the Paun's conjecture in particular.
+
+Membrane computing is already a mature field, and the research community around it is becoming more interdisciplinary and diverse. Although nowadays it seems that practical applications receive a rapidly increasing attention, there are still key theoretical issues that need to be addressed.
