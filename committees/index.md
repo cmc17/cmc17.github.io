@@ -10,7 +10,7 @@ Steering committee
 
 * Henry Adorna (Quezon City, Philippines)
 * Artiom Alhazov (Chişinǎu, Moldova)
-* Bogdan Aman (Iasi, Romania)
+* Bogdan Aman (Iaşi, Romania)
 * Matteo Cavaliere (Edinburgh, Scotland)
 * Erzsébet Csuhaj-Varjú (Budapest, Hungary)
 * Rudolf Freund (Wien, Austria)
@@ -35,13 +35,13 @@ Program committee
 ---------------------
 
 * Artiom Alhazov (Chişinǎu, Moldova)
-* Bogdan Aman (Iasi, Romania)
-* Lucie Ciencialova (Opava, Czech Republic)
+* Bogdan Aman (Iaşi, Romania)
+* Lucie Ciencialová (Opava, Czech Republic)
 * Erzsébet Csuhaj-Varjú (Budapest, Hungary)
 * Giuditta Franco (Verona, Italy)
 * Rudolf Freund (Vienna, Austria)
 * Marian Gheorghe (Bradford, UK)
-* Thomas Hinze (Jena, Germany)
+* Thomas Hinze (Cottbus, Germany)
 * Florentin Ipate (Bucharest, Romania)
 * Shankara N. Krishna (Bombay, India)
 * Alberto Leporati (Milano, Italy) - Co-chair
@@ -49,13 +49,13 @@ Program committee
 * Maurice Margenstern (Metz, France)
 * Giancarlo Mauri (Milano, Italy)
 * Radu Nicolescu (Auckland, New Zealand)
-* Linqiang Pan (Wuhan, Cina)
+* Linqiang Pan (Wuhan, China)
 * Gheorghe Păun (Bucharest, Romania)
 * Mario J. Pérez Jiménez (Sevilla, Spain)
 * Antonio E. Porreca (Milano, Italy)
 * Agustín Riscos-Núñez  (Sevilla, Spain)
-* Jose Sempere (Valencia, Spain)
-* Petr Sosik (Opava, Czech Republic)
+* José M. Sempere (Valencia, Spain)
+* Petr Sosík (Opava, Czech Republic)
 * György Vaszil (Debrecen, Hungary)
 * Sergey Verlan (Paris, France)
 * Claudio Zandron  (Milano, Italy) - Co-chair
