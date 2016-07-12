@@ -12,7 +12,7 @@ Full Papers
 * Artiom Alhazov, Omar Belingheri, Rudolf Freund, Sergiu Ivanov, Antonio E. Porreca, Claudio Zandron __Purely Catalytic P Systems over Integers and Their Generative Power__
 * Artiom Alhazov, Omar Belingheri, Rudolf Freund, Sergiu Ivanov, Antonio E. Porreca, Claudio Zandron __Semilinear Sets, Register Machines, and Integer Vector Addition (P) Systems__
 * Artiom Alhazov, Rudolf Freund and Sergey Verlan __Maximal Variants of the Set Derivation Mode__
-* Bogdan Aman, Gabriel Ciobanu	Computational Power of Protein Networks
+* Bogdan Aman, Gabriel Ciobanu __Computational Power of Protein Networks__
 * Mehmet Emin Bakir, Marian Gheorghe, Savas Konur, Mike Stannett __Comparative Analysis of Statistical Model Checking Tools__
 * Lucie Ciencialová, Luděk Cienciala, Petr Sosík __P Colonies with evolving environment__
 * Gabriel Ciobanu, Eneia Nicolae Todoran __Continuation Passing Semantics for Membrane Systems__
