@@ -44,7 +44,7 @@ Program committee
 * Thomas Hinze (Cottbus, Germany)
 * Florentin Ipate (Bucharest, Romania)
 * Shankara N. Krishna (Bombay, India)
-* Alberto Leporati (Milano, Italy) — Co-chair
+* Alberto Leporati (Milan, Italy) — Co-chair
 * Vincenzo Manca (Verona, Italy)
 * Maurice Margenstern (Metz, France)
 * Giancarlo Mauri (Milan, Italy)
