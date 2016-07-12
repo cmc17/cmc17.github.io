@@ -8,6 +8,7 @@
 * [Committees](/committees/)
 * [Invited speakers](/invited-speakers/)
 * [Accepted papers](/accepted-papers/)
+* [Conference program](/conference-program/)
 * [Social event](/social-event/)
 * [Registration](/registration/)
 
@@ -21,6 +22,10 @@
 [<img src="/media/springer-logo.png" width="140px" title="Springer" />](http://www.springer.com/)
 
 ### Latest news
+
+#### Preliminary Conference Program
+##### 12 July 2016
+The preliminary [conference program](/conference-program/) is now available.
 
 #### Registration information
 ##### 16 June 2016

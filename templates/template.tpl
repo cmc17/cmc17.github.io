@@ -27,6 +27,7 @@
           <li><a href="/">Home</a></li>
           <li><a href="/call-for-papers/">Call for papers</a></li>
           <li><a href="/call-for-abstracts/">Call for abstracts</a></li>
+          <li><a href="/conference-program/">Conference program</a></li>
         </ul>
       </div>
     </div>
