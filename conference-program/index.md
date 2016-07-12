@@ -14,7 +14,7 @@ _(Building U6, floor -1, near to Aula Martini U6-04)_
 
 9:30 – 9:45: __Opening Speech__ – Claudio Zandron, Chair of the CMC Steering Committee
 
-__Presentations of research groups____ – Session Chair: Claudio Zandron
+__Presentations of research groups__ – Session Chair: Claudio Zandron
 
 9:45 – 10:30: _Presentations of research groups_
 
