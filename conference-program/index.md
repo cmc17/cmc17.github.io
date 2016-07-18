@@ -45,7 +45,7 @@ _(Building U6, floor -1, Aula Martini U6-04)_
 
 Session Chair: TBA<br>
 10:45 – 11:10: Bogdan Aman, Gabriel Ciobanu, _Computational Power of Protein Networks_<br>
-11:10 – 11:35: Gabriel Ciobanu, Eneia Nicolae Todoran, _Continuation Passing Semantics for Membrane Systems_<br
+11:10 – 11:35: Gabriel Ciobanu, Eneia Nicolae Todoran, _Continuation Passing Semantics for Membrane Systems_<br>
 11:35 – 12:00: Lucie Ciencialová, Luděk Cienciala, Petr Sosík, _P Colonies with evolving environment_<br>
 12:00 – 12:15: Erzsébet Csuhaj-Varjú, _Extensions of P Colonies_<br>
 12:15 – 12:30: Ákos Balaskó, Erzsébet Csuhaj-Varjú, _Traces of Computations by Generalized Communicating P Systems_<br>
