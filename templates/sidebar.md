@@ -9,6 +9,7 @@
 * [Invited speakers](/invited-speakers/)
 * [Accepted papers](/accepted-papers/)
 * [Conference program](/conference-program/)
+* [Conference proceedings](/media/Proceedings CMC17.pdf) 
 * [Social event](/social-event/)
 * [Registration](/registration/)
 
@@ -22,6 +23,10 @@
 [<img src="/media/springer-logo.png" width="140px" title="Springer" />](http://www.springer.com/)
 
 ### Latest news
+
+#### Conference Proceedings 
+##### 23 July 2016
+The conference proceedings [Conference proceedings](/media/Proceedings CMC17.pdf) are now available.
 
 #### Preliminary Conference Program
 ##### 12 July 2016
