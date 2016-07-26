@@ -43,15 +43,8 @@ propose new approaches, problems and results.
 Submission of papers
 --------------------
 
-Authors are  invited to submit papers presenting original, unpublished research 
-as a PDF document. There are two tracks for submission:
-
-1. full paper (of a reasonable length),
-2. extended  abstract for  poster  presentation  (maximum four pages). Typical 
-   extended  abstracts  present  significant  work-in-progress,  late-breaking 
-   results,  or  initial  self-dependent  contributions of students new in the 
-   field.
-
+Authors are  invited to submit papers (of resonable length) presenting original, unpublished research 
+as a PDF document. 
 
 Only electronic submissions are accepted. Papers should be formatted
 according to the usual LNCS article style which can be downloaded at
