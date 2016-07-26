@@ -4,7 +4,6 @@
 
 * [Home](/)
 * [Call for papers](/call-for-papers/)
-* [Call for abstracts](/call-for-abstracts/)
 * [Committees](/committees/)
 * [Invited speakers](/invited-speakers/)
 * [Accepted papers](/accepted-papers/)

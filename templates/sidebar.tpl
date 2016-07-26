@@ -3,7 +3,6 @@
 <ul>
 <li><a href="/">Home</a></li>
 <li><a href="/call-for-papers/">Call for papers</a></li>
-<li><a href="/call-for-abstracts/">Call for abstracts</a></li>
 <li><a href="/committees/">Committees</a></li>
 <li><a href="/invited-speakers/">Invited speakers</a></li>
 <li><a href="/accepted-papers/">Accepted papers</a></li>

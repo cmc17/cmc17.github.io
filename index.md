@@ -16,11 +16,8 @@ CMC17 is organized under the auspices of the International Membrane Computing So
 Submissions
 -----------
 
-Authors are  invited to submit papers presenting original, unpublished research 
-as a PDF document. There are two tracks for submission:
-
-1. full paper (of a reasonable length),
-2. extended  abstract for  poster  presentation  (maximum four pages). Typical extended  abstracts  present  significant  work-in-progress, late-breaking results,  or  initial  self-dependent  contributions of students new in the field.
+Authors are  invited to submit papers (of resonable length) presenting original, unpublished research 
+as a PDF document.
 
 Only  electronic submissions are accepted. Papers should be formatted according to  the usual LNCS  article style which can be downloaded from [Springer’s LNCS website](http://www.springer.com/lncs). Please,  include all source  files as well  as  all additional files (figures etc.), and also attach a PDF variant of the submission.
 
@@ -38,7 +35,6 @@ Important dates
 ---------------
 
 * Deadline for submissions:           ~~18 April 2016~~ **25 April 2016**
-* Deadline for abstracts submissions: **15 May 2016**
 * Notification of acceptance:         **30 May 2016**
 * Final version:                      **20 June 2016**
 * Conference:                         **25–29 July 2016**
