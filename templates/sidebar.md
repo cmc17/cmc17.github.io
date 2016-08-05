@@ -10,6 +10,7 @@
 * [Conference program](/conference-program/)
 * [Conference proceedings](/media/Proceedings CMC17.pdf)
 * [Best Paper Award](/best-paper-award/)
+* [Photos](/photos/)
 * [Social event](/social-event/)
 * [Registration](/registration/)
 
