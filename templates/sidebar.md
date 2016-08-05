@@ -8,7 +8,8 @@
 * [Invited speakers](/invited-speakers/)
 * [Accepted papers](/accepted-papers/)
 * [Conference program](/conference-program/)
-* [Conference proceedings](/media/Proceedings CMC17.pdf) 
+* [Conference proceedings](/media/Proceedings CMC17.pdf)
+* [Best Paper Award](/best-paper-award/)
 * [Social event](/social-event/)
 * [Registration](/registration/)
 
