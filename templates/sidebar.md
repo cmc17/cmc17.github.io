@@ -27,11 +27,11 @@
 
 #### Best Paper Award Winners
 ##### 05 August 2016
-The winners of the [Best Paper Award](/media/best-paper-award/) and of the [Best Student Paper Award](/media/best-paper-award/) are now online.
+The winners of the [Best Paper Award](/best-paper-award/) and of the [Best Student Paper Award](/best-paper-award/) are now online.
 
 #### Conference Photos
 ##### 05 August 2016
-The [photos](/media/photos/) of the conference are now available.
+The [photos](/photos/) of the conference are now available.
 
 #### Conference Proceedings 
 ##### 23 July 2016
