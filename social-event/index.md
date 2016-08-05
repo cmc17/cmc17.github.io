@@ -5,7 +5,7 @@ title: CMC17 – Social event
 Social event
 ============
 
-The CMC17 social event begins at the Cloister of Santa Maria Maddalena al Cerchio, where we will arrive by bus from the University. The cloister is the remaining testimony of an XI century monastery. This is hidden in one of the few medieval streets of the city that still maintain their original route.
+The CMC17 social event begins at the Basilica of Sant'Ambrogio, where we will arrive by bus from the University. We will then visit the Cloister of Santa Maria Maddalena al Cerchio, which is the remaining testimony of an XI century monastery. This is hidden in one of the few medieval streets of the city that still maintain their original route.
 
 We will then reach the church of San Maurizio al Monastero Maggiore on foot. This is sometimes called the “Sistine Chapel of Milano” for its rich internal decorations and its frescos.
 
