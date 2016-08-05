@@ -129,12 +129,12 @@ Friday, 29<sup>th</sup> of July
 
 _(Building U6, floor -1, Aula Martini U6-04)_
 
-__Interaction Day__ – Session Chair: TBA<br>
+__Interaction Day__
 9:30 – 10:30: Results obtained during the Conference + Joint Work
 
 10:30 – 11:00: __Coffee break__
 
-__Interaction Day__ – Session Chair: TBA<br>
+__Interaction Day__
 11:00 – 12:30: Results obtained during the Conference + Joint Work
 
 12:30 – 12:45: __Closing__
