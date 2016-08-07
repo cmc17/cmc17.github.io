@@ -116,7 +116,7 @@ Session Chair: Thomas Hinze<br>
 16:20 – 16:45: Raluca Lefticaru, Luis Felipe Macías-Ramos, Ionuţ Mihai Niculescu, Laurenţiu Mierlă, _Agent-Based Simulation of Kernel P Systems with Division Rules Using FLAME_<br>
 16:45 – 17:00: Kristóf Kántor, György Vaszil, _Recent Results and Problems Concerning P Colony Automata_<br>
 
-17:00 – 17:15: Presentation of the next CMC Venue
+17:00 – 17:15: __Presentation of the next CMC Venue__
 
 17:15 – 17:30: __Best paper award__
 
