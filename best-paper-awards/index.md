@@ -1,11 +1,11 @@
 ---
-title: CMC17 – Best Paper Award
+title: CMC17 – Best Paper Awards
 ---
 
-Best Paper Award
+Best Paper Awards
 ================
 
-The **Best Paper Award** was won by by the following paper:
+The **Best Paper Award** was won by the paper:
 
 - Zsolt Gazdag, Gábor Kolonits, *Remarks on the Computational Power of Some Restricted Variants of P Systems with Active Membranes*
 

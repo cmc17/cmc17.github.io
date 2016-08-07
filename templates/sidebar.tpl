@@ -8,7 +8,7 @@
 <li><a href="/accepted-papers/">Accepted papers</a></li>
 <li><a href="/conference-program/">Conference program</a></li>
 <li><a href="/media/Proceedings%20CMC17.pdf">Conference proceedings</a></li>
-<li><a href="/best-paper-award/">Best Paper Award</a></li>
+<li><a href="/best-paper-awards/">Best Paper Awards</a></li>
 <li><a href="/photos/">Photos</a></li>
 <li><a href="/social-event/">Social event</a></li>
 <li><a href="/registration/">Registration</a></li>
@@ -23,7 +23,7 @@
 <h3 id="latest-news">Latest news</h3>
 <h4 id="best-paper-award-winners">Best Paper Award Winners</h4>
 <h5 id="august-2016">05 August 2016</h5>
-<p>The winners of the <a href="/best-paper-award/">Best Paper Award</a> and of the <a href="/best-paper-award/">Best Student Paper Award</a> are now online.</p>
+<p>The winners of the <a href="/best-paper-awards/">Best Paper Award</a> and of the <a href="/best-paper-awards/">Best Student Paper Award</a> are now online.</p>
 <h4 id="conference-photos">Conference Photos</h4>
 <h5 id="august-2016-1">05 August 2016</h5>
 <p>The <a href="/photos/">photos</a> of the conference are now available.</p>

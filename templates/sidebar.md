@@ -9,7 +9,7 @@
 * [Accepted papers](/accepted-papers/)
 * [Conference program](/conference-program/)
 * [Conference proceedings](/media/Proceedings CMC17.pdf)
-* [Best Paper Award](/best-paper-award/)
+* [Best Paper Awards](/best-paper-awards/)
 * [Photos](/photos/)
 * [Social event](/social-event/)
 * [Registration](/registration/)
@@ -27,7 +27,7 @@
 
 #### Best Paper Award Winners
 ##### 05 August 2016
-The winners of the [Best Paper Award](/best-paper-award/) and of the [Best Student Paper Award](/best-paper-award/) are now online.
+The winners of the [Best Paper Award](/best-paper-awards/) and of the [Best Student Paper Award](/best-paper-awards/) are now online.
 
 #### Conference Photos
 ##### 05 August 2016
