@@ -11,7 +11,7 @@ Photos
 
 [<img style="width:100%; object-fit:contain" src="/photos/preview/small-img03.jpg" />](/photos/original/img03.jpg)
 
-From left: Claudio Zandron, Gexiang Zhang, Alberto Leporati, Marian Gheorghe (showing the foundation act of the International Membrane Computing Society), Erzsébet Csuhaj-Varjú, and Gheorghe Paun (showing the bell, symbol and lucky charm of the CMC conference series)
+From left: Claudio Zandron, Gexiang Zhang, Alberto Leporati, Marian Gheorghe (showing the foundation act of the International Membrane Computing Society), Erzsébet Csuhaj-Varjú, and Gheorghe Păun (showing the bell, symbol and lucky charm of the CMC conference series)
 
 [<img style="width:100%; object-fit:contain" src="/photos/preview/small-img06.jpg" />](/photos/original/img06.jpg)
 
