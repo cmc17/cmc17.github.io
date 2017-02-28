@@ -29,7 +29,7 @@ After logging  into your  EasyChair  account, select  the “New Submission” m
 
 A selection of further revised papers of CMC has been published as a volume of [Lecture Notes in Computer Science](https://dx.doi.org/10.1007/978-3-319-54072-6) by [Springer](http://www.springer.com/).
 
-![https://dx.doi.org/10.1007/978-3-319-54072-6](/media/LNCS-Logo.png "Springer LNCS")
+[![](/media/LNCS-Logo.png "Springer LNCS")](https://dx.doi.org/10.1007/978-3-319-54072-6)
 
 Important dates
 ---------------
