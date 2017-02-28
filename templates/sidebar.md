@@ -8,7 +8,8 @@
 * [Invited speakers](/invited-speakers/)
 * [Accepted papers](/accepted-papers/)
 * [Conference program](/conference-program/)
-* [Conference proceedings](/media/Proceedings CMC17.pdf)
+* [Conference preproceedings](/media/Proceedings CMC17.pdf)
+* [LNCS proceedings](https://dx.doi.org/10.1007/978-3-319-54072-6)
 * [Best Paper Awards](/best-paper-awards/)
 * [Photos](/photos/)
 * [Social event](/social-event/)
@@ -24,6 +25,10 @@
 [<img src="/media/springer-logo.png" width="140px" title="Springer" />](http://www.springer.com/)
 
 ### Latest news
+
+#### LNCS Proceedings now Available
+##### 28 February 2017
+The [LNCS proceedings](https://dx.doi.org/10.1007/978-3-319-54072-6) of CMC17 are now available.
 
 #### Best Paper Award Winners
 ##### 05 August 2016
