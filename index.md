@@ -23,13 +23,17 @@ Only  electronic submissions are accepted. Papers should be formatted according 
 
 Submissions have to be sent through the EasyChair web Page
 
-<p style="text-align: center;">[https://easychair.org/conferences/?conf=cmc17](https://easychair.org/conferences/?conf=cmc17)</p>
+<p style="text-align: center;">
+[https://easychair.org/conferences/?conf=cmc17](https://easychair.org/conferences/?conf=cmc17)
+</p>
 
 After logging  into your  EasyChair  account, select  the “New Submission” menu item on the top of the page. If you do not have an EasyChair account,follow the instructions on the login page.
 
 A selection of further revised papers of CMC has been published as a volume of [Lecture Notes in Computer Science](https://dx.doi.org/10.1007/978-3-319-54072-6) by [Springer](http://www.springer.com/).
 
+<p style="text-align: center;">
 [![](/media/LNCS-Logo.png "Springer LNCS")](https://dx.doi.org/10.1007/978-3-319-54072-6)
+</p>
 
 Important dates
 ---------------
